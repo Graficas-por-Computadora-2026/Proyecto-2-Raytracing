@@ -41,6 +41,22 @@ Diorama inspirado en **Kame House**, construido con cubos texturizados y renderi
 | Restablecer cámara y hora | `R` |
 | Salir | Cerrar la ventana |
 
+## Música
+
+La reproducción comienza con la primera canción y continúa en este orden. Al terminar una pista, inicia automáticamente la siguiente; también se puede cambiar con `B` y `N`.
+
+1. **Mi Corazón Encantado** — Dragon Ball GT
+2. **DROP TOP** — MEOVV
+3. **Pop Off Pop Off** — KiiiKiii
+4. **TIMEBOMB** — izna
+5. **r u ok?** — Ifeye
+6. **RACECAR** — izna
+7. **FOREVER** — BABYMONSTER
+8. **RUDE!** — Hearts2Hearts
+9. **Do the Dance** — ILLIT
+10. **Lemon Tang** — Hearts2Hearts
+11. **NOT CUTE ANYMORE** — ILLIT
+
 ## Requisitos
 
 - Rust y Cargo con soporte para la edición 2024.
