@@ -2,14 +2,6 @@
 
 Diorama inspirado en **Kame House**, construido con cubos texturizados y renderizado completamente por CPU. El proyecto implementa un ray tracer propio en Rust, con iluminación dinámica, materiales, reflexión, refracción, mapas normales, emisión, cielo procedural y terreno generado proceduralmente.
 
-## Video de demostración
-
-<video src="docs/kame_house.mp4" controls width="720">
-  Tu navegador no puede reproducir el video. [Ver o descargar el video](docs/kame_house.mp4).
-</video>
-
-[Ver o descargar el video del diorama](docs/kame_house.mp4)
-
 ## Vista previa
 
 ![Vista previa del diorama](Adobe%20Express%20-%20Kame%20House%202x.gif)
