@@ -4,7 +4,13 @@ Diorama inspirado en **Kame House**, construido con cubos texturizados y renderi
 
 ## Video de demostración
 
+<video src="docs/kame_house.mp4" controls width="720">
+  Tu navegador no puede reproducir el video. [Ver o descargar el video](docs/kame_house.mp4).
+</video>
+
 [Ver o descargar el video del diorama](docs/kame_house.mp4)
+
+## Vista previa
 
 ![Vista previa del diorama](Adobe%20Express%20-%20Kame%20House%202x.gif)
 
@@ -79,6 +85,3 @@ La imagen fija se guarda como `kame_house_preview.ppm` y los fotogramas como arc
 - `assets/textures/`: texturas de los bloques y materiales.
 - `assets/idol_sky/`: imágenes usadas por el modo de cielo panorámico.
 
-## Créditos
-
-Proyecto realizado para el curso **Gráficas por Computadora**. La escena toma como referencia visual un diorama de Kame House construido con bloques.
