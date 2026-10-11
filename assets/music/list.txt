@@ -1,0 +1,12 @@
+# ruta|grupo|cancion
+assets/music/mi corazon encantado.mp3|Dragon Ball GT|Mi Corazón Encantado
+assets/music/drop_top_meovv.mp3|MEOVV|DROP TOP
+assets/music/pop_off_pop_off_kiiikiii.mp3|KiiiKiii|Pop Off Pop Off
+assets/music/timebomb_izna.mp3|izna|TIMEBOMB
+assets/music/r_u_ok_.mp3|Ifeye|r u ok?
+assets/music/racecar.mp3|izna|RACECAR
+assets/music/forever_babymonster.mp3|BABYMONSTER|FOREVER
+assets/music/rude_hearts2hearts.mp3|Hearts2Hearts|RUDE!
+assets/music/do_the_dance_illit.mp3|ILLIT|Do the Dance
+assets/music/lemon_tang_hearts2hearts.mp3|Hearts2Hearts|Lemon Tang
+assets/music/not_cute_anymore_illit.mp3|ILLIT|NOT CUTE ANYMORE
