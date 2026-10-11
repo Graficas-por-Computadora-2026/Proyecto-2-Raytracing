@@ -4,7 +4,7 @@ Diorama inspirado en **Kame House**, construido con cubos texturizados y renderi
 
 ## Video de demostración
 
-[Ver o descargar el video del diorama](docs/Kame House.mp4)
+[Ver o descargar el video del diorama](docs/Kame%20House.mp4)
 
 ## Vista previa
 
