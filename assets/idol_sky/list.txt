@@ -1,0 +1,126 @@
+assets/idol_sky/pet_000.jpg|pet_idol/Babymonster/Ahyeon.png
+assets/idol_sky/pet_002.jpg|pet_idol/Babymonster/chiquita.jpg
+assets/idol_sky/pet_003.jpg|pet_idol/Babymonster/chiquita1.jpg
+assets/idol_sky/pet_004.jpg|pet_idol/Babymonster/chiquita.jpg
+assets/idol_sky/pet_005.jpg|pet_idol/Babymonster/chiquita.jpg
+assets/idol_sky/pet_006.jpg|pet_idol/Babymonster/chiquita.jpg
+assets/idol_sky/pet_007.jpg|pet_idol/Babymonster/rora.jpg
+assets/idol_sky/pet_009.jpg|pet_idol/Babymonster/rora.jpg
+assets/idol_sky/pet_010.jpg|pet_idol/Babymonster/ruka.jpg
+assets/idol_sky/pet_011.jpg|pet_idol/Babymonster/ruka.webp
+assets/idol_sky/pet_012.jpg|pet_idol/Babymonster/ruka1.jpg
+assets/idol_sky/pet_013.jpg|pet_idol/Babymonster/ruka2.jpg
+assets/idol_sky/pet_016.jpg|pet_idol/Blackpink/Ros-9827306.jpg
+assets/idol_sky/pet_018.jpg|pet_idol/Blackpink/lisa.jpg
+assets/idol_sky/pet_019.jpg|pet_idol/Blackpink/rose.jpg
+assets/idol_sky/pet_020.jpg|pet_idol/Gyubin/body.jpg
+assets/idol_sky/pet_021.jpg|pet_idol/Gyubin/face.jpg
+assets/idol_sky/pet_024.jpg|pet_idol/Hearts2Hearts/Jiwoo.jpg
+assets/idol_sky/pet_025.jpg|pet_idol/Ifeye/Kasia.jpg
+assets/idol_sky/pet_026.jpg|pet_idol/Ifeye/Sasha.jpg
+assets/idol_sky/pet_027.jpg|pet_idol/Ifeye/Sasha1.jpg
+assets/idol_sky/pet_028.jpg|pet_idol/Ifeye/Sasha2.jpg
+assets/idol_sky/pet_029.jpg|pet_idol/Ifeye/images.jpg
+assets/idol_sky/pet_031.jpg|pet_idol/Illit/wonhee.jpg
+assets/idol_sky/pet_032.jpg|pet_idol/Illit/wonhee.webp
+assets/idol_sky/pet_035.jpg|pet_idol/Ive/Liz.jpg
+assets/idol_sky/pet_036.jpg|pet_idol/Ive/Liz1.jpg
+assets/idol_sky/pet_037.jpg|pet_idol/Ive/Liz2.jpg
+assets/idol_sky/pet_038.jpg|pet_idol/Ive/Wnyoung.jpg
+assets/idol_sky/pet_039.jpg|pet_idol/Ive/Wonyoung.jpg
+assets/idol_sky/pet_040.jpg|pet_idol/Ive/Wonyoung1.jpg
+assets/idol_sky/pet_041.jpg|pet_idol/Ive/Wonyoung2.jpg
+assets/idol_sky/pet_042.jpg|pet_idol/Ive/Wonyoung.jpg
+assets/idol_sky/pet_043.jpg|pet_idol/Ive/Yujin.jpg
+assets/idol_sky/pet_044.jpg|pet_idol/Ive/Yujin1.jpg
+assets/idol_sky/pet_045.jpg|pet_idol/Ive/Yujin2.jpg
+assets/idol_sky/pet_047.jpg|pet_idol/Kiiikiii/jiyu.webp
+assets/idol_sky/pet_048.jpg|pet_idol/Kiiikiii/jiyu.webp
+assets/idol_sky/pet_049.jpg|pet_idol/Kiiikiii/jiyu.webp
+assets/idol_sky/pet_050.jpg|pet_idol/Kiiikiii/kya.jpg
+assets/idol_sky/pet_051.jpg|pet_idol/Kiiikiii/kya.jpg
+assets/idol_sky/pet_052.jpg|pet_idol/Kiiikiii/kya.webp
+assets/idol_sky/pet_053.jpg|pet_idol/Kiiikiii/kya.jpg
+assets/idol_sky/pet_054.jpg|pet_idol/Meovv/anna.avif
+assets/idol_sky/pet_055.jpg|pet_idol/Meovv/anna.jpg
+assets/idol_sky/pet_056.jpg|pet_idol/Meovv/anna.webp
+assets/idol_sky/pet_057.jpg|pet_idol/Meovv/anna1.jpg
+assets/idol_sky/pet_058.jpg|pet_idol/Meovv/anna2.jpg
+assets/idol_sky/pet_060.jpg|pet_idol/Meovv/ella.jpg
+assets/idol_sky/pet_061.jpg|pet_idol/Meovv/ella11.jpg
+assets/idol_sky/pet_062.jpg|pet_idol/Meovv/ella.jpg
+assets/idol_sky/pet_063.jpg|pet_idol/Meovv/ella.jpg
+assets/idol_sky/pet_064.jpg|pet_idol/Meovv/sooin.jpg
+assets/idol_sky/pet_065.jpg|pet_idol/Meovv/sooin.webp
+assets/idol_sky/pet_066.jpg|pet_idol/Nmixx/Jiwoo.jpg
+assets/idol_sky/pet_067.jpg|pet_idol/Nmixx/Jiwoo1.jpg
+assets/idol_sky/pet_068.jpg|pet_idol/Nmixx/Jiwoo2.jpg
+assets/idol_sky/pet_069.jpg|pet_idol/Nmixx/Jiwoo.jpg
+assets/idol_sky/pet_070.jpg|pet_idol/Nmixx/Sullyoon.jpg
+assets/idol_sky/pet_071.jpg|pet_idol/Triples/Chaaewon2.webp
+assets/idol_sky/pet_072.jpg|pet_idol/Triples/Chaewon.jpg
+assets/idol_sky/pet_073.jpg|pet_idol/Triples/Chaewon1.jpg
+assets/idol_sky/pet_074.jpg|pet_idol/Triples/Chaewon.webp
+assets/idol_sky/pet_075.jpg|pet_idol/Triples/Sohyun.jpg
+assets/idol_sky/pet_076.jpg|pet_idol/Triples/Sohyun1.jpg
+assets/idol_sky/pet_077.jpg|pet_idol/Triples/Sohyun2.jpg
+assets/idol_sky/wall_000.jpg|Mundo3D/wall/image copy 10.png
+assets/idol_sky/wall_001.jpg|Mundo3D/wall/image copy 11.png
+assets/idol_sky/wall_002.jpg|Mundo3D/wall/image copy 12.png
+assets/idol_sky/wall_003.jpg|Mundo3D/wall/image copy 13.png
+assets/idol_sky/wall_004.jpg|Mundo3D/wall/image copy 14.png
+assets/idol_sky/wall_005.jpg|Mundo3D/wall/image copy 15.png
+assets/idol_sky/wall_006.jpg|Mundo3D/wall/image copy 16.png
+assets/idol_sky/wall_007.jpg|Mundo3D/wall/image copy 17.png
+assets/idol_sky/wall_008.jpg|Mundo3D/wall/image copy 18.png
+assets/idol_sky/wall_009.jpg|Mundo3D/wall/image copy 19.png
+assets/idol_sky/wall_010.jpg|Mundo3D/wall/image copy 2.png
+assets/idol_sky/wall_011.jpg|Mundo3D/wall/image copy 20.png
+assets/idol_sky/wall_012.jpg|Mundo3D/wall/image copy 21.png
+assets/idol_sky/wall_013.jpg|Mundo3D/wall/image copy 22.png
+assets/idol_sky/wall_014.jpg|Mundo3D/wall/image copy 23.png
+assets/idol_sky/wall_015.jpg|Mundo3D/wall/image copy 24.png
+assets/idol_sky/wall_016.jpg|Mundo3D/wall/image copy 25.png
+assets/idol_sky/wall_017.jpg|Mundo3D/wall/image copy 26.png
+assets/idol_sky/wall_018.jpg|Mundo3D/wall/image copy 27.png
+assets/idol_sky/wall_019.jpg|Mundo3D/wall/image copy 28.png
+assets/idol_sky/wall_020.jpg|Mundo3D/wall/image copy 29.png
+assets/idol_sky/wall_021.jpg|Mundo3D/wall/image copy 3.png
+assets/idol_sky/wall_022.jpg|Mundo3D/wall/image copy 30.png
+assets/idol_sky/wall_023.jpg|Mundo3D/wall/image copy 31.png
+assets/idol_sky/wall_024.jpg|Mundo3D/wall/image copy 32.png
+assets/idol_sky/wall_025.jpg|Mundo3D/wall/image copy 33.png
+assets/idol_sky/wall_026.jpg|Mundo3D/wall/image copy 34.png
+assets/idol_sky/wall_027.jpg|Mundo3D/wall/image copy 35.png
+assets/idol_sky/wall_028.jpg|Mundo3D/wall/image copy 36.png
+assets/idol_sky/wall_029.jpg|Mundo3D/wall/image copy 37.png
+assets/idol_sky/wall_030.jpg|Mundo3D/wall/image copy 38.png
+assets/idol_sky/wall_031.jpg|Mundo3D/wall/image copy 39.png
+assets/idol_sky/wall_032.jpg|Mundo3D/wall/image copy 4.png
+assets/idol_sky/wall_033.jpg|Mundo3D/wall/image copy 40.png
+assets/idol_sky/wall_034.jpg|Mundo3D/wall/image copy 41.png
+assets/idol_sky/wall_035.jpg|Mundo3D/wall/image copy 42.png
+assets/idol_sky/wall_036.jpg|Mundo3D/wall/image copy 43.png
+assets/idol_sky/wall_037.jpg|Mundo3D/wall/image copy 44.png
+assets/idol_sky/wall_038.jpg|Mundo3D/wall/image copy 45.png
+assets/idol_sky/wall_039.jpg|Mundo3D/wall/image copy 46.png
+assets/idol_sky/wall_040.jpg|Mundo3D/wall/image copy 47.png
+assets/idol_sky/wall_041.jpg|Mundo3D/wall/image copy 48.png
+assets/idol_sky/wall_042.jpg|Mundo3D/wall/image copy 49.png
+assets/idol_sky/wall_043.jpg|Mundo3D/wall/image copy 5.png
+assets/idol_sky/wall_044.jpg|Mundo3D/wall/image copy 50.png
+assets/idol_sky/wall_045.jpg|Mundo3D/wall/image copy 51.png
+assets/idol_sky/wall_046.jpg|Mundo3D/wall/image copy 52.png
+assets/idol_sky/wall_047.jpg|Mundo3D/wall/image copy 53.png
+assets/idol_sky/wall_048.jpg|Mundo3D/wall/image copy 54.png
+assets/idol_sky/wall_049.jpg|Mundo3D/wall/image copy 55.png
+assets/idol_sky/wall_050.jpg|Mundo3D/wall/image copy 56.png
+assets/idol_sky/wall_051.jpg|Mundo3D/wall/image copy 57.png
+assets/idol_sky/wall_052.jpg|Mundo3D/wall/image copy 58.png
+assets/idol_sky/wall_053.jpg|Mundo3D/wall/image copy 59.png
+assets/idol_sky/wall_054.jpg|Mundo3D/wall/image copy 6.png
+assets/idol_sky/wall_055.jpg|Mundo3D/wall/image copy 7.png
+assets/idol_sky/wall_056.jpg|Mundo3D/wall/image copy 8.png
+assets/idol_sky/wall_057.jpg|Mundo3D/wall/image copy 9.png
+assets/idol_sky/wall_058.jpg|Mundo3D/wall/image copy.png
+assets/idol_sky/wall_059.jpg|Mundo3D/wall/image.png
